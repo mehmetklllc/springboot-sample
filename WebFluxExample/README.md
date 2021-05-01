@@ -7,9 +7,8 @@ This is a simple example how you can use spring boot + webflux +mongodb to creat
 - [x] Spring Webflux
 
 **System requirements**
-- JDK 11
+- JDK 8
 - Maven
-- Docker
 
 ## Build and run application
 
