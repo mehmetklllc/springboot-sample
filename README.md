@@ -8,6 +8,4 @@ You can found samples with about spring boot under this repository
 
 
 
-
-## mkilic
 ## turkishh.com
