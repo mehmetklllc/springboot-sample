@@ -9,5 +9,3 @@ You can found samples with about spring boot under this repository
 
 
 ## turkishh.com
-
-.
