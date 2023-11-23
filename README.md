@@ -1,5 +1,5 @@
 # Springboot Sapmles
-You can found samples with about spring boot under this repository
+You can found samples with about springboot under this repository
 
 - [x] Spring Boot
 - [x] Spring Data
