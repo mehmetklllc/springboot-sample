@@ -10,5 +10,5 @@ You can found samples with about springboot under this repository
 
 ## turkishh.com
 
-# Springboot JWT example authantication provider
+# Springboot JWT example authentication provider
 
