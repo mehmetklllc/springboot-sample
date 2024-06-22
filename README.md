@@ -1,4 +1,4 @@
-# Springboot Sapmles
+# Springboot Sapmles 
 You can found samples with about springboot under this repository
 
 - [x] Spring Boot
@@ -9,3 +9,6 @@ You can found samples with about springboot under this repository
 
 
 ## turkishh.com
+
+# Springboot JWT example authantication provider
+
